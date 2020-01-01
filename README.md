@@ -8,7 +8,9 @@
 
 ![加速器界面](https://raw.githubusercontent.com/Kevinjyp/Leigod-Reminder/master/pic/interface.PNG "加速器界面")
 
-![通知效果展示](https://raw.githubusercontent.com/Kevinjyp/Leigod-Reminder/master/pic/notification.PNG "通知效果展示")
+<div align=center>
+  ![通知效果展示](https://raw.githubusercontent.com/Kevinjyp/Leigod-Reminder/master/pic/notification.PNG "通知效果展示")
+</div>
 
 ## 使用方法
 在Leigod-Reminder文件夹，打开cmd或者powershell。控制台输入```python a.py```，即可。
