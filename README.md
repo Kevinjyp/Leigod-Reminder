@@ -6,9 +6,9 @@
 
  > 2019年最后一天，和小伙伴又重新捡起来了吃鸡玩了几把。陡然想起，之前使用的UU加速器过期了。听小伙伴推荐，使用了雷神加速器，英文名Leigod，也是够雷的。雷神加速器不同于UU加速器的包月制，是购买时长使用，并且支持无限次暂停时长。然而，美中不足的是，加速器在退出的时候并不会主动暂停时长。我原来在借小伙伴的加速器的时候，也出现过忘记暂停，跑了几百个小时的事情...于是乎，遂想起，用python和powershell写一个当雷神加速器退出时，自动调用Windows10通知，提示关闭雷神加速器的命令行程序。
 
-![加速器界面](https://raw.githubusercontent.com/Kevinjyp/Leigod-Reminder/master/pic/interface.PNG)
+![加速器界面](https://raw.githubusercontent.com/Kevinjyp/Leigod-Reminder/master/pic/interface.PNG "加速器界面")
 
-![通知效果展示](https://raw.githubusercontent.com/Kevinjyp/Leigod-Reminder/master/pic/notification.PNG)
+![通知效果展示](https://raw.githubusercontent.com/Kevinjyp/Leigod-Reminder/master/pic/notification.PNG "通知效果展示")
 
 ## 使用方法
 在Leigod-Reminder文件夹，打开cmd或者powershell。控制台输入```python a.py```，即可。
